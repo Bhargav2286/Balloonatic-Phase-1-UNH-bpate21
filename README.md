@@ -8,3 +8,11 @@
 - Also there is one form in which I add email validation using javascript.
 - So basically in phase-1 there are basic designs included in web application.
 - In later project you will be able to see more products as well as more functionalities using javascript.
+
+# Technologies:-
+- HTML
+- CSS
+- JAVASCRIPT
+
+# Creator:-
+- Bhargav Patel (https://github.com/Bhargav2286)
