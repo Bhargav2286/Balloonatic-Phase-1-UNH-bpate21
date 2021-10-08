@@ -1,4 +1,4 @@
-# Balloonatic-Phase-1-UNH-bpate21
+# Balloonatic Project-Phase-1:-
 This is basically a web application for a small balloon business. Which is made use of HTML,CSS and Javascript.
 This project is about the company name "The Balloonatic Asylum" which sells various kinds of balloons and also makes any new idea by customer request.
 In this project I am the full stack developer who made the web application as per client request.
